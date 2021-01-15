@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 本初的个人博客
-subtitle: 保持队形 GOGOGO
+title: Milky的个人博客
+subtitle: 奔跑吧，雪橇啊，犹如一阵风🎵，划桨划桨，巡游特异点
 description: Don't look back don't repent
-author: 本初
+author: MilkyWay
 language: zh-Hans
 timezone:
-email: 1192487554@qq.com
+email: 459269519@qq.com
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://q1192487554.github.io/
+url: https://onlymilky.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -72,7 +72,7 @@ theme: next
 # 这是提交到github的配置，启用本地服务器，请注释
 deploy:
   type: git
-  repository: git@github.com:q1192487554/q1192487554.github.io.git
+  repository: git@github.com:onlymilky/onlymilky.github.io.git
   branch: master
   message: 'Daily updated：{{now("YYYY-MM-DD HH:mm:ss")}} by Dreamingpoet personal PC'
 
